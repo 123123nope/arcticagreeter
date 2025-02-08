@@ -15,4 +15,5 @@
 
 # Credits
 
+
 - Arctica Greeter started as a fork of Unity Greeter 16.04.2, a greeter developed for Ubuntu by Canonical. Furtheron, various improvements are take from Slick Greeter, the LinuxMint fork of Unity Greeter.
